@@ -26,7 +26,7 @@ Just Another Text Editor, or J.A.T.E, is a Progressive Web App (PWA) designed to
 
 ## Usage
 
-1. **Accessing the App**: Visit the URL [Just Another Text Editor](------------) in your web browser.
+1. **Accessing the App**: Visit the URL [Just Another Text Editor](https://j-a-t-e-qc4v.onrender.com/) in your web browser.
 2. **Editing Text**: Start typing or paste your text into the editor area.
 3. **JavaScript Syntax Highlighting**: Enjoy enhanced code readability with syntax highlighting.
 4. **Saving Files**: Page is automatically saved when you switch focus or navigate away from the app.
